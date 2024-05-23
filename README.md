@@ -4,10 +4,10 @@
 
 <div align="center">
   <h2>💫 About Me:</h2>
-  <p>🌱 I’m currently learning <strong>React & Figma</strong></p>
-  <p>💬 Ask me about <strong>Web UI Design</strong></p>
-  <p>📫 How to reach me: <strong>nadungmenath1@gmail.com</strong></p>
-  <p>⚡ Fun fact: <strong>UI developers are like digital architects, sculpting pixels and code to create seamless user experiences that feel as good as they look! 🎨💻</strong></p>
+  <p><h3>🌱 I’m currently learning <strong>React & Figma</strong></h3></p>
+  <p><h3>💬 Ask me about <strong>Web UI Design</strong></h3></p>
+  <p><h3>📫 How to reach me: <strong>nadungmenath1@gmail.com</strong></h3></p>
+  <p><h3>⚡ Fun fact: <strong>UI developers are like digital architects, sculpting pixels and code to create seamless user experiences that feel as good as they look! 🎨💻</strong></h3></p>
 </div>
 
 <div align="center">
