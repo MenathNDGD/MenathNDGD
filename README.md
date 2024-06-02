@@ -3,6 +3,20 @@
 <h3 align="center">Welcome to My Corner of the Digital World! I'm a Passionate UI Developer Dedicated to Creating Visually Stunning and User-Friendly Experiences.</h3>
 
 <div align="center">
+  <h2>📊 GitHub Profile View Counter:</h2>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MenathNDGD&style=for-the-badge&color=brightgreen" alt="Profile View Counter" style="margin-right: 10px;">
+  </p>
+</div>
+
+<div align="center">
+  <h2>🔗 Visitor Count Card:</h2>
+  <p>
+    <img src="https://profile-counter.glitch.me/MenathNDGD/count.svg" alt="Visitor Count Card" style="width: 60%; border: 2px solid #4CAF50; border-radius: 10px; padding: 10px;">
+  </p>
+</div>
+
+<div align="center">
   <h2>💫 About Me:</h2>
   <p><h3>🌱 I’m currently learning <strong>React & Figma</strong></h3></p>
   <p><h3>💬 Ask me about <strong>UI Design</strong></h3></p>
