@@ -88,7 +88,21 @@
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenathNDGD&theme=tokyonight" style="width: 80%; height: auto;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15" style="width: 80%; height: auto;">
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+<a href="https://github.com/MenathNDGD"><img src="https://streak-stats.demolab.com?user=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak Stats" /></a>
+</p>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MenathNDGD">
+    <img src="https://github-readme-stats.vercel.app/api?username=MenathNDGD&show_icons=true&theme=highcontrast&hide_border=true&border_radius=15&include_all_commits=false&count_private=true" alt="GitHub Stats"height="220em">
   </a>
 </div>
 
@@ -96,25 +110,9 @@
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MenathNDGD&layout=compact&theme=tokyonight" alt="GitHub Streak Stats">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/MenathNDGD">
-    <img src="https://github-readme-stats.vercel.app/api?username=MenathNDGD&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/MenathNDGD">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenathNDGD&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="180em"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15&layout=compact&langs_count=10" height="220em"/>
     &#160;&#160;&#160;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MenathNDGD&theme=tokyonight" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15" height="220em"/>
   </a>
 </div>
 
@@ -122,52 +120,47 @@
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MenathNDGD&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15" height="220em"/>
     &#160;&#160;&#160;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MenathNDGD&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15" height="220em" />
   </a>
 </div>
-
-
-
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&layout=compact&langs_count=8&theme=tokyonight" alt="Top Language">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Language" height="220em">
   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 <div align="center">
   <h2>🏆 GitHub Trophies:</h2>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=MenathNDGD&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=MenathNDGD&theme=highcontrast&no-frame=false&no-bg=true&margin-w=14" alt="GitHub Trophies">
   </p>
 </div>
 
 <div align="center">
   <h2>✍️ Random Dev Quote:</h2>
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote">
   </p>
 </div>
 
 <div align="center">
   <h2>🔝 Top Contributed Repo:</h2>
   <p>
-    <img src="https://github-contributor-stats.vercel.app/api?username=MenathNDGD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+    <img src="https://github-contributor-stats.vercel.app/api?username=MenathNDGD&limit=5&theme=highcontrast&hide_border=true&border_radius=15&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
   </p>
 </div>
 
 <div align="center">
   <h2>📈 GitHub Activity Graph:</h2>
   <p>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MenathNDGD&theme=react-dark" alt="GitHub Activity Graph"/>
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MenathNDGD&theme=react-dark&hide_border=true&border_radius=15" alt="GitHub Activity Graph"/>
   </p>
 </div>
 
