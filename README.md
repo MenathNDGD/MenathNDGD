@@ -1,8 +1,18 @@
 <div align="center">
   <img src="Images/BgImg.gif" alt="https://menathndgd.github.io/MenathNDGD/">
 </div>
-<h1 align="center">Hi 👋, I'm Menath Nadungoda</h1>
-<h3 align="center">Welcome to My Corner of the Digital World! I'm a Passionate UI Developer Dedicated to Creating Visually Stunning and User-Friendly Experiences.</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=45&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=720&height=100&lines=Hi%2C+I'm+Menath+Nadungoda%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
+
+<img src="Images/Line.gif"
+
+<div align="center">
+  <h3>Welcome to My Corner of the Digital World! I'm a Passionate UI Developer Dedicated to Creating Visually Stunning and User-Friendly Experiences.</h3>
+</div>
 
 <div align="center">
   <h2>👀 GitHub Profile View Counter:</h2>
