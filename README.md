@@ -39,14 +39,14 @@
 <div align="center">
   <h2 align="center"> <img src="Images/connectMe.webp" width="40" height="40" style="margin-right: 10px;">Connect With Me 🤝: </h2>
   <p>
-    <a href="https://facebook.com/meNaThNDGD"><img src="Images/ConnectWithMe/Facebook.svg" width="5%" alt="Facebook"></a>&#160;&#160;&#160;
+    <a href="https://facebook.com/meNaThNDGD"><img src="Images/ConnectWithMe/Facebook.png" width="5%" alt="Facebook"></a>&#160;&#160;&#160;
     <a href="https://instagram.com/_me_na_th_"><img src="Images/ConnectWithMe/Instagram.svg" alt="Instagram" width="5%"></a>&#160;&#160;&#160;
     <a href="https://linkedin.com/in/menath-nadungoda-910905286"><img src="Images/ConnectWithMe/LinkedIn.svg" alt="LinkedIn" width="5%"></a>&#160;&#160;&#160;
     <a href="https://pinterest.com/nadungmenath1"><img src="Images/ConnectWithMe/Pinterest.png" width="5%" alt="Pinterest"></a>&#160;&#160;&#160;
     <a href="https://reddit.com/user/leoCheMess1090"><img src="Images/ConnectWithMe/Reddit.svg" width="5%" alt="Reddit"></a>&#160;&#160;&#160;
     <a href="https://tiktok.com/@menath.nadungoda"><img src="Images/ConnectWithMe/TikTok.png" width="5%" alt="TikTok"></a>&#160;&#160;&#160;
     <a href="https://x.com/MNadungoda13250"><img src="Images/ConnectWithMe/Twitter.svg" width="5%" alt="Twitter"></a>&#160;&#160;&#160;
-    <a href="https://youtube.com/@menathnadungoda4477"><img src="Images/ConnectWithMe/YouTube.webp" width="5%" alt="YouTube"></a>&#160;&#160;&#160;
+    <a href="https://youtube.com/@menathnadungoda4477"><img src="Images/ConnectWithMe/Youtube.png" width="5%" alt="YouTube"></a>&#160;&#160;&#160;
   </p>
 </div>
 
