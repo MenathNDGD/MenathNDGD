@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<img src="Images/Line.gif"
+<img src="Images/Line.gif">
 
 <div align="center">
   <h3>Welcome to My Corner of the Digital World! I'm a Passionate UI Developer Dedicated to Creating Visually Stunning and User-Friendly Experiences.</h3>
