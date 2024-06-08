@@ -60,7 +60,7 @@
     <img src="Images/TechStack/ChakraUI.png" alt="Chakra UI" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/Flutter.svg" alt="Flutter" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/MaterialUI.svg" alt="MUI" width="5%" style="margin: 10px;">&#160;&#160;&#160;
-    <img src="Images/TechStack/NPM.png" alt="NPM" width="5%" style="margin: 10px;">&#160;&#160;&#160;
+    <img src="Images/TechStack/Laravel.svg" alt="Laravel" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/NodeJS.svg" alt="Node.js" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/React.svg" alt="React" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/Vite.svg" alt="Vite" width="5%" style="margin: 10px;">&#160;&#160;&#160;
@@ -74,7 +74,6 @@
     <img src="Images/TechStack/Premiere.svg" alt="Adobe Premiere Pro" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/Canva.png" alt="Canva" width="5%" style="margin: 10px;">&#160;&#160;&#160;
     <img src="Images/TechStack/Figma.svg" alt="Figma" width="5%" style="margin: 10px;">&#160;&#160;&#160;
-    <img src="Images/TechStack/Laravel.svg" alt="Laravel" width="5%" style="margin: 10px;">&#160;&#160;&#160;
   </p>
 </div>
 
