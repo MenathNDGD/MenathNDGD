@@ -163,7 +163,7 @@
 <div align="center">
   <h2>✍️ Random Dev Quote:</h2>
   <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   </p>
 </div>
 
