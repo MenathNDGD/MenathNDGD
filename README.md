@@ -115,10 +115,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15&card_width=530&card_height=200&type=png" alt="GitHub Streak" /></a>
 </div>
 
-<p align="center">
-<a href="https://github.com/MenathNDGD"><img src="https://github-readme-streak-stats.herokuapp.com?user=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15&card_width=530&card_height=200" alt="GitHub Streak Stats" /></a>
-</p>
-
 <br/>
 
 <div align="center">
