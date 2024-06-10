@@ -149,7 +149,7 @@
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&layout=compact&langs_count=8&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Language" height="220em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&langs_count=10&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Language" height="220em">
   </a>
 </div>
 
