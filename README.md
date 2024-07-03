@@ -129,6 +129,14 @@
 
 <div align="center">
   <a href="https://github.com/MenathNDGD">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&langs_count=10&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Language">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MenathNDGD">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15&layout=compact&langs_count=10" height="220em"/>
     &#160;&#160;&#160;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MenathNDGD&theme=highcontrast&hide_border=true&border_radius=15" height="220em"/>
@@ -146,12 +154,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/MenathNDGD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenathNDGD&langs_count=10&theme=highcontrast&hide_border=true&border_radius=15" alt="Top Language" height="220em">
-  </a>
-</div>
 
 <img src="Images/Line.gif">
 
